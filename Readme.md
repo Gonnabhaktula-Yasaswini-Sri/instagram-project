@@ -132,13 +132,3 @@ the race condition and data loss
 All classes and methods and packages are documented using Javadoc and used by team members during the development process
 \
 [Link to documentations](http://janax-artwork.ir/)
-
-### Acknowledgements
-
-I myself thank my teammates,[Reyhaneh Saffar](https://gitlab.com/rsf122456) and [Hasan Roknabady](https://gitlab.com/HasanRoknabady) ,for this great cooperation and their contributions, also the high-quality codes
-that they provided and further developed the project.
-\
-I also should thank my mentors, [Ali Aliabadi](https://gitlab.com/ali-aliabadi) 
-and [Saeid Cheshmi](https://gitlab.com/s.ch), for helping me during the Advanced Programming course at SBU.
-\
-Finally I thank Prof. Kheradpisheh, the master of this course, for the great and high-quality course that they provided us with.
